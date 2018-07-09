@@ -33,7 +33,3 @@ mkdir info
  *1800 --> insufficient pos images
 
 
-https://pythonprogramming.net/haar-cascade-object-detection-python-opencv-tutorial/
-https://github.com/mrnugget/opencv-haar-classifier-training
-
-
